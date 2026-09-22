@@ -6,7 +6,7 @@ and managing risk in real time.
 
 ## Tech Stack
 
-- NestJS
+- Nodejs
 - Kafka
 - Redis
 - Nginx
